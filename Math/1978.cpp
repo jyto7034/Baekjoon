@@ -13,6 +13,7 @@ void solve()
                 arry[i * j] = true;
         }
     }
+
     int tc;
     std::vector<int> nums;
     std::cin>>tc;
